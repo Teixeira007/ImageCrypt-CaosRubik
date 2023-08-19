@@ -1,2 +1,2 @@
 # ImageCrypt-CaosRubik
- "Criptografia de imagens: Mapas caóticos e Cubo Rubik combinados para máxima segurança. Repositório "CaosRubik" - inovação em proteção de dados visuais."
+ O CaosRubik oferece uma abordagem inovadora para a criptografia de imagens, combinando o poder dos mapas caóticos com a complexidade do Cubo Rubik. Nossa metodologia única se baseia na substituição de pixels usando algoritmos de mapas caóticos avançados, que introduzem um elemento imprevisível e altamente seguro na transformação dos dados da imagem. Além disso, utilizamos o conceito de permutação inspirado pelo famoso Cubo Rubik para embaralhar os blocos de pixels de maneira eficiente e complexa.
